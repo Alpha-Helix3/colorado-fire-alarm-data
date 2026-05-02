@@ -1,0 +1,8 @@
+{
+  "version": "1.0.0",
+  "last_updated": "2026-05-01T20:00:00Z",
+  "data_endpoints": {
+    "ahj_database": "https://raw.githubusercontent.com/Alpha-Helix3/colorado-fire-alarm-data/refs/heads/main/ahj.json",
+    "map_boundaries": "https://raw.githubusercontent.com/Alpha-Helix3/colorado-fire-alarm-data/refs/heads/main/jurisdictions.geojson"
+  }
+}
