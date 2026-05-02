@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Greeley Fire Department",
+        "id": "gfd_01"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [-104.78, 40.45],
+            [-104.65, 40.45],
+            [-104.65, 40.38],
+            [-104.78, 40.38],
+            [-104.78, 40.45]
+          ]
+        ]
+      }
+    }
+  ]
+}
